@@ -1,0 +1,14 @@
+C:\Users\Lelich\Desktop\test\final_test\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lelich\Desktop\test\final_test\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+C:\Users\Lelich\Desktop\test\final_test\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+C:\Users\Lelich\Desktop\test\final_test\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\Lelich\Desktop\test\final_test\task2\bin\Debug\net7.0\task2.exe
+C:\Users\Lelich\Desktop\test\final_test\task2\bin\Debug\net7.0\task2.deps.json
+C:\Users\Lelich\Desktop\test\final_test\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+C:\Users\Lelich\Desktop\test\final_test\task2\bin\Debug\net7.0\task2.dll
+C:\Users\Lelich\Desktop\test\final_test\task2\bin\Debug\net7.0\task2.pdb
+C:\Users\Lelich\Desktop\test\final_test\task2\obj\Debug\net7.0\task2.dll
+C:\Users\Lelich\Desktop\test\final_test\task2\obj\Debug\net7.0\refint\task2.dll
+C:\Users\Lelich\Desktop\test\final_test\task2\obj\Debug\net7.0\task2.pdb
+C:\Users\Lelich\Desktop\test\final_test\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+C:\Users\Lelich\Desktop\test\final_test\task2\obj\Debug\net7.0\ref\task2.dll
