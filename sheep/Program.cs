@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int sheep = 0;
+for (int i = 0; i < 5; i++)
+{
+    sheep++;
+}
+System.Console.WriteLine("насчитано 5 овец");

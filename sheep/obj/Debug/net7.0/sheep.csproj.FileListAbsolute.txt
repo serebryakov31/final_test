@@ -1,0 +1,14 @@
+C:\Users\Lelich\Desktop\test\final_test\sheep\obj\Debug\net7.0\sheep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lelich\Desktop\test\final_test\sheep\obj\Debug\net7.0\sheep.AssemblyInfoInputs.cache
+C:\Users\Lelich\Desktop\test\final_test\sheep\obj\Debug\net7.0\sheep.AssemblyInfo.cs
+C:\Users\Lelich\Desktop\test\final_test\sheep\obj\Debug\net7.0\sheep.csproj.CoreCompileInputs.cache
+C:\Users\Lelich\Desktop\test\final_test\sheep\bin\Debug\net7.0\sheep.exe
+C:\Users\Lelich\Desktop\test\final_test\sheep\bin\Debug\net7.0\sheep.deps.json
+C:\Users\Lelich\Desktop\test\final_test\sheep\bin\Debug\net7.0\sheep.runtimeconfig.json
+C:\Users\Lelich\Desktop\test\final_test\sheep\bin\Debug\net7.0\sheep.dll
+C:\Users\Lelich\Desktop\test\final_test\sheep\bin\Debug\net7.0\sheep.pdb
+C:\Users\Lelich\Desktop\test\final_test\sheep\obj\Debug\net7.0\sheep.dll
+C:\Users\Lelich\Desktop\test\final_test\sheep\obj\Debug\net7.0\refint\sheep.dll
+C:\Users\Lelich\Desktop\test\final_test\sheep\obj\Debug\net7.0\sheep.pdb
+C:\Users\Lelich\Desktop\test\final_test\sheep\obj\Debug\net7.0\sheep.genruntimeconfig.cache
+C:\Users\Lelich\Desktop\test\final_test\sheep\obj\Debug\net7.0\ref\sheep.dll
